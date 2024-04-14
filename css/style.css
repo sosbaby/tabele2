@@ -1,0 +1,23 @@
+able, td, th{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 8px;
+}
+table{
+   background-color: rgb(253, 231, 191);
+   border-spacing: 9px;
+}
+img{
+    width: 70px;
+    height: 70px;  
+}
+th{
+    background-color: rgb(253, 176, 88);
+}
+td{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+th, td{
+    padding: 10px;
+    text-align: center;
+}
